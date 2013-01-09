@@ -1,0 +1,98 @@
+#reports:
+#  EstadisticaMensualCuadro1:
+#    name: PLANILLA DE ESTADÍSTICA MENSUAL - NIVEL PRIMARIO - CUADRO 1
+#    step1: # make the logical screen. See "Two steps view" pattern
+#      logical_screen_callback: [LogicalScreenCallbacks, planillaEstadisticaCuadro1]
+#      callback_params: ~ # [p1, p2, ..] using this key, the action can pass parameters too.
+#    step2:
+#      structure:
+#        default:
+#          layout:
+#            class: ~ # defaults to sfExportGlobals[globals][step2][structure_class][parent]
+#                     # if have childs, sfExportGlobals[globals][step2][structure_class][leaf] other wise.
+#            nodes: '/result' # A XPath expresion selecting logical_screen nodes for this view.
+#            xslt_structure:
+#              sheet: '/templates/reports/PlanillaEstadisticaCuadro1/PlanillaEstadisticaCuadro1.fo.xml' # A XML to FO transformation adding structure. Path from %sf_app_module_dir%
+#              params: {} # Associative array with relevant parameters for this xslt.
+#            xslt_style:
+#              sheet: ~ # A FO to FO transformation adding style. Path from %sf_app_module_dir%
+#              params: {} # Associative array with relevant parameters for this xslt.
+#              
+#  listado_personas_x_edad:
+#    name: Listado de Personas Por Edad
+#    step1: # make the logical screen. See "Two steps view" pattern
+#      logical_screen_callback: [LogicalScreenCallbacks, listadoPersonasXedad]
+#      callback_params: ~ # [p1, p2, ..] using this key, the action can pass parameters too.
+#    step2:
+#      structure:
+#        default:
+#          layout:
+#            class: ~ # defaults to sfExportGlobals[globals][step2][structure_class][parent]
+#                     # if have childs, sfExportGlobals[globals][step2][structure_class][leaf] other wise.
+#            nodes: '//result' # A XPath expresion selecting logical_screen nodes for this view.
+#            xslt_structure:
+#              sheet: '/templates/reports/ListPersonasEdad/ListPersonasEdad.fo.xsl' # A XML to FO transformation adding structure. Path from %sf_app_module_dir%
+#              params: {} # Associative array with relevant parameters for this xslt.
+#            xslt_style:
+#              sheet: ~ # A FO to FO transformation adding style. Path from %sf_app_module_dir%
+#              params: {} # Associative array with relevant parameters for this xslt.
+#              
+#  listado_personas:
+#    name: Listado de Personas
+#    step1: # make the logical screen. See "Two steps view" pattern
+#      logical_screen_callback: [LogicalScreenCallbacks, listadoPersonas]
+#      callback_params: ~ # [p1, p2, ..] using this key, the action can pass parameters too.
+#    step2:
+#      structure:
+#        default:
+#          layout:
+#            class: ~ # defaults to sfExportGlobals[globals][step2][structure_class][parent]
+#                     # if have childs, sfExportGlobals[globals][step2][structure_class][leaf] other wise.
+#            nodes: '/*' # A XPath expresion selecting logical_screen nodes for this view.
+#            xslt_structure:
+#              sheet: '/templates/reports/ListPersonas/ListPersonasHeader.fo.xml' # A XML to FO transformation adding structure. Path from %sf_app_module_dir%
+#              params: {} # Associative array with relevant parameters for this xslt.
+#            xslt_style:
+#              sheet: ~ # A FO to FO transformation adding style. Path from %sf_app_module_dir%
+#              params: {} # Associative array with relevant parameters for this xslt.
+#            children:
+#              persona_list_body:
+#                class: ~ # defaults do sfExportGlobals[globals][step2][structure_class][parent]
+#                         # if have childs, sfExportGlobals[globals][step2][structure_class][leaf] other wise.
+#                nodes: '//result' # A XPath expresion selecting logical_screen nodes for this view.
+#                xslt_structure:
+#                  sheet: '/templates/reports/ListPersonas/ListPersonasBody.fo.xml' # A XML to FO transformation adding structure. Path from %sf_app_module_dir%
+#                  params: {} # Associative array with relevant parameters for this xslt.
+#                xslt_style:
+#                  sheet: ~ # A FO to FO transformation adding style. Path from %sf_app_module_dir%
+#                  params: {} # Associative array with relevant parameters for this xslt.
+#              
+#  relevaiento_inicial:
+#    name: hello world
+#    step1: # make the logical screen. See "Two steps view" pattern
+#      logical_screen_callback: [LogicalScreenCallbacks, helloworld]
+#      callback_params: ~ # [p1, p2, ..] using this key, the action can pass parameters too.
+#    step2:
+#      structure:
+#        default:
+#          layout:
+#            class: ~ # defaults do sfExportGlobals[globals][step2][structure_class][parent]
+#                     # if have childs, sfExportGlobals[globals][step2][structure_class][leaf] other wise.
+#            nodes: '/*' # A XPath expresion selecting logical_screen nodes for this view.
+#            xslt_structure:
+#              sheet: '/templates/reports/helloworld/helloworld.xsl' # A XML to FO transformation adding structure. Path from %sf_app_module_dir%
+#              params: {} # Associative array with relevant parameters for this xslt.
+#            xslt_style:
+#              sheet: ~ # A FO to FO transformation adding style. Path from %sf_app_module_dir%
+#              params: {} # Associative array with relevant parameters for this xslt.
+##            children: 
+##              juan:
+##                class: ~ # defaults do CompositeView if have childs, View other wise.
+##                nodes: '//Persona' # A XPath expresion selecting logical_screen nodes for this view.
+##                xslt_structure:
+##                  sheet: '/templates/reports/helloworld/hello2.xsl' # A XML to FO transformation adding structure.
+##                  params: {} # Associative array with relevant parameters for this xslt.
+##                xslt_style:
+##                  sheet: ~ # A FO to FO transformation adding style.
+##                  params: {} # Associative array with relevant parameters for this xslt.
+##                children: ~

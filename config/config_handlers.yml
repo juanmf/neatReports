@@ -1,0 +1,10 @@
+config/sfExportConfig.yml:
+ file: %SF_PLUGINS_DIR%/reportPlugin/lib/config/sfExportConfigHandler.class.php
+ class: sfExportConfigHandler
+ param:
+   prefix: mod_export_
+config/sfExportGlobals.yml:
+ file: %SF_PLUGINS_DIR%/reportPlugin/lib/config/sfExportConfigHandler.class.php
+ class: sfExportConfigHandler
+ param:
+   prefix: mod_export_

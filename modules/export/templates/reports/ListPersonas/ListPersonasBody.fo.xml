@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:template match="/*">
+        <xsl:apply-templates select="node()"/>
+    </xsl:template>
+    <xsl:template match="Persona_Collection" name="body">
+        <fo:block space-after="10pt" space-after.conditionality="retain" line-height="1.3190500000000002" font-family="Helvetica" font-size="11pt" language="EN-US" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:svg="http://www.w3.org/2000/svg">
+            <fo:inline language="ES">
+                <fo:leader leader-length="0pt" />Listado de Personas.
+            </fo:inline>
+        </fo:block>
+        <fo:block space-after="10pt" space-after.conditionality="retain" line-height="1.3190500000000002" font-family="Helvetica" font-size="11pt" language="ES" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:svg="http://www.w3.org/2000/svg">
+            <fo:leader />
+        </fo:block>
+        <fo:table font-family="Helvetica" language="EN-US" start-indent="4.65pt" xmlns:st1="urn:schemas-microsoft-com:office:smarttags" xmlns:svg="http://www.w3.org/2000/svg">
+            <fo:table-column column-number="1" column-width="99.75pt" />
+            <fo:table-column column-number="2" column-width="81pt" />
+            <fo:table-column column-number="3" column-width="99pt" />
+            <fo:table-column column-number="4" column-width="58.5pt" />
+            <fo:table-column column-number="5" column-width="31.9pt" />
+            <fo:table-column column-number="6" column-width="121.5pt" />
+            <fo:table-column column-number="7" column-width="69.1pt" />
+            <fo:table-column column-number="8" column-width="87.1pt" />
+            <xsl:call-template name="table_header"/>
+            <fo:table-body start-indent="0pt" end-indent="0pt">
+                <xsl:apply-templates select="Persona"/>
+            </fo:table-body>
+        </fo:table>
+    </xsl:template>
+    <xsl:template name="table_header">
+        <fo:table-header>
+            <fo:table-row height="15pt">
+                <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="solid" border-top-color="black" border-top-width="1pt" border-left-style="solid" border-left-color="black" border-left-width="1pt" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="#C5D9F1" color="#000000" display-align="after">
+                    <fo:block-container>
+                        <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                            <fo:inline color="#000000">
+                                <fo:leader leader-length="0pt" />Id
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block-container>
+                </fo:table-cell>
+                <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="solid" border-top-color="black" border-top-width="1pt" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="#C5D9F1" color="#000000" display-align="after">
+                    <fo:block-container>
+                        <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                            <fo:inline color="#000000">
+                                <fo:leader leader-length="0pt" />Apellido
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block-container>
+                </fo:table-cell>
+                <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="solid" border-top-color="black" border-top-width="1pt" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="#C5D9F1" color="#000000" display-align="after">
+                    <fo:block-container>
+                        <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                            <fo:inline color="#000000">
+                                <fo:leader leader-length="0pt" />Nombre
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block-container>
+                </fo:table-cell>
+                <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="solid" border-top-color="black" border-top-width="1pt" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="#C5D9F1" color="#000000" display-align="after">
+                    <fo:block-container>
+                        <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                            <fo:inline color="#000000">
+                                <fo:leader leader-length="0pt" />DNI
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block-container>
+                </fo:table-cell>
+                <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="solid" border-top-color="black" border-top-width="1pt" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="#C5D9F1" color="#000000" display-align="after">
+                    <fo:block-container>
+                        <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                            <fo:inline color="#000000">
+                                <fo:leader leader-length="0pt" />Sexo
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block-container>
+                </fo:table-cell>
+                <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="solid" border-top-color="black" border-top-width="1pt" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="#C5D9F1" color="#000000" display-align="after">
+                    <fo:block-container>
+                        <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                            <fo:inline color="#000000">
+                                <fo:leader leader-length="0pt" />e-Mail
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block-container>
+                </fo:table-cell>
+                <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="solid" border-top-color="black" border-top-width="1pt" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="#C5D9F1" color="#000000" display-align="after">
+                    <fo:block-container>
+                        <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                            <fo:inline color="#000000">
+                                <fo:leader leader-length="0pt" />Nacionalidad
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block-container>
+                </fo:table-cell>
+                <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="solid" border-top-color="black" border-top-width="1pt" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="#C5D9F1" color="#000000" display-align="after">
+                    <fo:block-container>
+                        <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                            <fo:inline color="#000000">
+                                <fo:leader leader-length="0pt" />Localidad
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block-container>
+                </fo:table-cell>
+            </fo:table-row>
+        </fo:table-header>
+    </xsl:template >
+    <xsl:template match="Persona" name="table_row">
+        <fo:table-row height="15pt">
+            <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="none" border-left-style="solid" border-left-color="black" border-left-width="1pt" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="white" color="black" display-align="after">
+                <fo:block-container>
+                    <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                        <fo:inline color="#000000">
+                            <fo:leader leader-length="0pt" />
+                            <xsl:value-of select="id"/>
+                        </fo:inline>
+                    </fo:block>
+                </fo:block-container>
+            </fo:table-cell>
+            <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="none" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="white" color="black" display-align="after">
+                <fo:block-container>
+                    <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                        <fo:inline color="#000000">
+                            <fo:leader leader-length="0pt" />
+                            <xsl:value-of select="apellido"/>
+                        </fo:inline>
+                    </fo:block>
+                </fo:block-container>
+            </fo:table-cell>
+            <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="none" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="white" color="black" display-align="after">
+                <fo:block-container>
+                    <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                        <fo:inline color="#000000">
+                            <fo:leader leader-length="0pt" />
+                            <xsl:value-of select="nombre"/>
+                        </fo:inline>
+                    </fo:block>
+                </fo:block-container>
+            </fo:table-cell>
+            <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="none" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="white" color="black" display-align="after">
+                <fo:block-container>
+                    <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                        <fo:inline color="#000000">
+                            <fo:leader leader-length="0pt" />
+                            <xsl:value-of select="nro_documento"/>
+                        </fo:inline>
+                    </fo:block>
+                </fo:block-container>
+            </fo:table-cell>
+            <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="none" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="white" color="black" display-align="after">
+                <fo:block-container>
+                    <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                        <fo:inline color="#000000">
+                            <fo:leader leader-length="0pt" />
+                            <xsl:value-of select="sexo"/>
+                        </fo:inline>
+                    </fo:block>
+                </fo:block-container>
+            </fo:table-cell>
+            <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="none" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="white" color="black" display-align="after">
+                <fo:block-container>
+                    <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                        <fo:inline color="#000000">
+                            <fo:leader leader-length="0pt" />
+                            <xsl:value-of select="email"/>
+                        </fo:inline>
+                    </fo:block>
+                </fo:block-container>
+            </fo:table-cell>
+            <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="none" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="white" color="black" display-align="after">
+                <fo:block-container>
+                    <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                        <fo:inline color="#000000">
+                            <fo:leader leader-length="0pt" />
+                            <xsl:value-of select="nacionalidad_id"/>
+                        </fo:inline>
+                    </fo:block>
+                </fo:block-container>
+            </fo:table-cell>
+            <fo:table-cell padding-top="0pt" padding-left="5.4pt" padding-bottom="0pt" padding-right="5.4pt" border-top-style="none" border-left-style="none" border-bottom-style="solid" border-bottom-color="black" border-bottom-width="1pt" border-right-style="solid" border-right-color="black" border-right-width="1pt" background-color="white" color="black" display-align="after">
+                <fo:block-container>
+                    <fo:block space-after="0pt" space-after.conditionality="retain" line-height="1.147" font-family="Helvetica" font-size="11pt" language="EN-US">
+                        <fo:inline color="#000000">
+                            <fo:leader leader-length="0pt" />
+                            <xsl:value-of select=".//Localidad_Collection/nombre"/>
+                        </fo:inline>
+                    </fo:block>
+                </fo:block-container>
+            </fo:table-cell>
+        </fo:table-row>
+    </xsl:template>
+</xsl:stylesheet>

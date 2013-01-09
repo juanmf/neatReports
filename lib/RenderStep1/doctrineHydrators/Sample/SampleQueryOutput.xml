@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<result>
+    <Persona_Collection>
+        <Persona>
+            <id>211b1502-4e86-11e0-aa33-0026b96873c9</id>
+            <apellido>ESCALANTE</apellido>
+            <nombre>Escalante, SANDRO</nombre>
+            <nro_documento>44386326</nro_documento>
+            <sexo>F</sexo>
+            <fecha_nacimiento>2000-10-04</fecha_nacimiento>
+            <email></email>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1</localidad_nacim_id>
+            <pertenece_pueblo_originario></pertenece_pueblo_originario>
+            <habla_lengua_indigena></habla_lengua_indigena>
+            <created_at>2011-03-14 18:58:00</created_at>
+            <updated_at>2011-03-14 18:58:00</updated_at>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>211d7b4e-4e86-11e0-aa33-0026b96873c9</id>
+                    <persona_id>211b1502-4e86-11e0-aa33-0026b96873c9</persona_id>
+                    <domicilio_id>2119f762-4e86-11e0-aa33-0026b96873c9</domicilio_id>
+                    <fecha_alta></fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural></zona_rural>
+                    <created_at>2011-03-14 18:58:00</created_at>
+                    <updated_at>2011-03-14 18:58:00</updated_at>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>21231040-4e86-11e0-aa33-0026b96873c9</id>
+            <apellido>AGUIRRE VAN DE VELDE</apellido>
+            <nombre>Aguirre Van De Velde, CAMILA</nombre>
+            <nro_documento>45099610</nro_documento>
+            <sexo>F</sexo>
+            <fecha_nacimiento>2003-09-12</fecha_nacimiento>
+            <email></email>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1</localidad_nacim_id>
+            <aborigen></aborigen>
+            <habla_lengua_indigena></habla_lengua_indigena>
+            <created_at>2011-03-14 18:58:00</created_at>
+            <updated_at>2011-03-14 18:58:00</updated_at>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>21242e6c-4e86-11e0-aa33-0026b96873c9</id>
+                    <persona_id>21231040-4e86-11e0-aa33-0026b96873c9</persona_id>
+                    <domicilio_id>21221668-4e86-11e0-aa33-0026b96873c9</domicilio_id>
+                    <fecha_alta></fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural></zona_rural>
+                    <created_at>2011-03-14 18:58:00</created_at>
+                    <updated_at>2011-03-14 18:58:00</updated_at>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>2129a608-4e86-11e0-aa33-0026b96873c9</id>
+            <apellido>AGUIRRE ZAPPORITTI</apellido>
+            <nombre>Aguirre Zapporitti, GIANELLA</nombre>
+            <nro_documento>45371505</nro_documento>
+            <sexo>F</sexo>
+            <fecha_nacimiento>2004-04-05</fecha_nacimiento>
+            <email></email>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1</localidad_nacim_id>
+            <aborigen></aborigen>
+            <habla_lengua_indigena></habla_lengua_indigena>
+            <created_at>2011-03-14 18:58:01</created_at>
+            <updated_at>2011-03-14 18:58:01</updated_at>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>212abc1e-4e86-11e0-aa33-0026b96873c9</id>
+                    <persona_id>2129a608-4e86-11e0-aa33-0026b96873c9</persona_id>
+                    <domicilio_id>2128a9c4-4e86-11e0-aa33-0026b96873c9</domicilio_id>
+                    <fecha_alta></fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural></zona_rural>
+                    <created_at>2011-03-14 18:58:01</created_at>
+                    <updated_at>2011-03-14 18:58:01</updated_at>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>21303018-4e86-11e0-aa33-0026b96873c9</id>
+            <apellido>BENITEZ</apellido>
+            <nombre>Benitez, AGUSTINA</nombre>
+            <nro_documento>45454804</nro_documento>
+            <sexo>F</sexo>
+            <fecha_nacimiento>2004-02-13</fecha_nacimiento>
+            <email></email>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1</localidad_nacim_id>
+            <aborigen></aborigen>
+            <habla_lengua_indigena></habla_lengua_indigena>
+            <created_at>2011-03-14 18:58:01</created_at>
+            <updated_at>2011-03-14 18:58:01</updated_at>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>21314692-4e86-11e0-aa33-0026b96873c9</id>
+                    <persona_id>21303018-4e86-11e0-aa33-0026b96873c9</persona_id>
+                    <domicilio_id>212f405e-4e86-11e0-aa33-0026b96873c9</domicilio_id>
+                    <fecha_alta></fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural></zona_rural>
+                    <created_at>2011-03-14 18:58:01</created_at>
+                    <updated_at>2011-03-14 18:58:01</updated_at>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>2136efe8-4e86-11e0-aa33-0026b96873c9</id>
+            <apellido>CASTILLO</apellido>
+            <nombre>Castillo, NAYLA MARIA</nombre>
+            <nro_documento>45103556</nro_documento>
+            <sexo>F</sexo>
+            <fecha_nacimiento>2004-02-05</fecha_nacimiento>
+            <email></email>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1</localidad_nacim_id>
+            <aborigen></aborigen>
+            <habla_lengua_indigena></habla_lengua_indigena>
+            <created_at>2011-03-14 18:58:01</created_at>
+            <updated_at>2011-03-14 18:58:01</updated_at>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>2138007c-4e86-11e0-aa33-0026b96873c9</id>
+                    <persona_id>2136efe8-4e86-11e0-aa33-0026b96873c9</persona_id>
+                    <domicilio_id>2135f4f8-4e86-11e0-aa33-0026b96873c9</domicilio_id>
+                    <fecha_alta></fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural></zona_rural>
+                    <created_at>2011-03-14 18:58:01</created_at>
+                    <updated_at>2011-03-14 18:58:01</updated_at>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+    </Persona_Collection>
+</result>

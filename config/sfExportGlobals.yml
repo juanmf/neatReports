@@ -1,0 +1,35 @@
+globals:
+  step2:
+    structure_class:
+      parent: CompositeView
+      leaf: View
+  step3:
+    available_output: [HTML, XSLFO, XLS, PDFWebService, PDFConsole]
+    output_format: HTML # this is usead, and should be set by the action, to select the renderer.
+    default: HTML
+    HTML:
+      class: RenderHtml
+      xslt_output:
+        sheet: /lib/RenderStep3/xsl/fo2html.xsl # xslt FO to HTML use system default if null. Path from %sf_app_module_dir%
+        params: {} # Associative array with relevant parameters for this xslt.
+        
+    XSLFO:
+      class: RenderFo
+      xslt_output:
+        sheet: ~ # xslt FO to HTML use system default if null.
+        params: {} # Associative array with relevant parameters for this xslt.
+    XLS:
+      class: RenderXls
+      xslt_output:
+        sheet: ~ # xslt FO to HTML use system default if null.
+        params: {} # Associative array with relevant parameters for this xslt.
+    PDFWebService:
+      class: RenderPdfSoap # Use ApacheFop through WEB SERVICE
+      xslt_output:
+        sheet: ~ # xslt FO to HTML use system default if null.
+        params: {} # Associative array with relevant parameters for this xslt.
+    PDFConsole:
+      class: RenderPdfConsole # Use ApacheFop through console executable
+      xslt_output:
+        sheet: ~ # xslt FO to HTML use system default if null.
+        params: {} # Associative array with relevant parameters for this xslt.

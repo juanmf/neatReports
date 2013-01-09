@@ -1,0 +1,1936 @@
+<result>
+    <Persona_Collection>
+        <Persona>
+            <id>78db0f3c-c002-102f-bf64-001a64ab842a</id>
+            <apellido>AGUIRRE</apellido>
+            <nombre>NORMA NILDA</nombre>
+            <nro_documento>17060105</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1965-01-26</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>2</estado_civil_id>
+            <localidad_nacim_id>1194</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-03-15 12:14:51</created_at>
+            <updated_at>2012-03-15 12:14:51</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>10494318-c00b-102f-bf64-001a64ab842a</id>
+                    <persona_id>78db0f3c-c002-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>1048cd66-c00b-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-03-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 13:16:21</created_at>
+                    <updated_at>2012-03-15 13:16:21</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>1048cd66-c00b-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1194</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 13:16:21</created_at>
+                        <updated_at>2012-03-15 13:16:21</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1194</id>
+                            <nombre>FONTANA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>f25c1a36-6bde-102f-90ab-001a64ab842a</id>
+            <apellido>DIAZ</apellido>
+            <nombre>ADELAIDA ALBINA</nombre>
+            <nro_documento>11829000</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1956-03-31</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>2</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2011-11-29 10:29:18</created_at>
+            <updated_at>2012-03-15 10:38:50</updated_at>
+            <created_by/>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>180a3e3e-bffe-102f-bf64-001a64ab842a</id>
+                    <persona_id>f25c1a36-6bde-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>1809673e-bffe-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 11:43:30</created_at>
+                    <updated_at>2012-03-15 11:43:30</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>1809673e-bffe-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id>509edb6c-099f-102f-8aa0-001a64ab842a</calle_id>
+                        <numero>880</numero>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 11:43:30</created_at>
+                        <updated_at>2012-03-15 11:43:30</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>9903d1ce-5840-102f-90ab-001a64ab842a</id>
+            <apellido>LAZARCZUK</apellido>
+            <nombre>CARLOS AGUSTIN</nombre>
+            <nro_documento>45249937</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2004-01-19</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-22 10:49:33</created_at>
+            <updated_at>2012-03-15 12:10:57</updated_at>
+            <created_by>1</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>287e8c26-c002-102f-bf64-001a64ab842a</id>
+                    <persona_id>9903d1ce-5840-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>287e1552-c002-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:12:36</created_at>
+                    <updated_at>2012-03-15 12:12:36</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>287e1552-c002-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1194</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>12</manzana>
+                        <parcela>15</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:12:36</created_at>
+                        <updated_at>2012-03-15 12:12:36</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1194</id>
+                            <nombre>FONTANA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>f26f89cc-6bde-102f-90ab-001a64ab842a</id>
+            <apellido>RAMIREZ</apellido>
+            <nombre>NANCY CONCEPCI&#xD3;N</nombre>
+            <nro_documento>22968949</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1972-12-04</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>3</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-29 10:29:18</created_at>
+            <updated_at>2012-03-15 12:27:12</updated_at>
+            <created_by/>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>2c4f67ec-bfff-102f-bf64-001a64ab842a</id>
+                    <persona_id>f26f89cc-6bde-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>2c4ef136-bfff-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 11:51:14</created_at>
+                    <updated_at>2012-03-15 11:51:14</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>2c4ef136-bfff-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id>509edb6c-099f-102f-8aa0-001a64ab842a</calle_id>
+                        <numero>2064</numero>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 11:51:14</created_at>
+                        <updated_at>2012-03-15 11:51:14</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>91f101e6-bfff-102f-bf64-001a64ab842a</id>
+            <apellido>SOSA</apellido>
+            <nombre>GRACIA</nombre>
+            <nro_documento>25738750</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1969-07-05</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id/>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-03-15 11:54:04</created_at>
+            <updated_at>2012-03-15 11:54:04</updated_at>
+            <created_by>1</created_by>
+            <updated_by>1</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>2d4322ca-c008-102f-bf64-001a64ab842a</id>
+                    <persona_id>91f101e6-bfff-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>2d42aaa2-c008-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-01-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:55:41</created_at>
+                    <updated_at>2012-03-15 12:55:41</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>2d42aaa2-c008-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:55:41</created_at>
+                        <updated_at>2012-03-15 12:55:41</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>83154bb8-6803-102f-90ab-001a64ab842a</id>
+            <apellido>Acu&#xF1;a</apellido>
+            <nombre>Franco Leonel</nombre>
+            <nro_documento>46385017</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2005-01-30</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia>castellano</lengua_familia>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-24 12:40:52</created_at>
+            <updated_at>2012-03-15 10:29:14</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>314ae62e-6805-102f-90ab-001a64ab842a</id>
+                    <persona_id>83154bb8-6803-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>314a5a9c-6805-102f-90ab-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-11-15</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2011-11-24 12:52:54</created_at>
+                    <updated_at>2011-11-24 12:52:54</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>314a5a9c-6805-102f-90ab-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>33</manzana>
+                        <parcela>8</parcela>
+                        <monoblock/>
+                        <referencia>b&#xBA; 300 viv</referencia>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2011-11-24 12:52:54</created_at>
+                        <updated_at>2011-11-24 12:52:54</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>f26ec564-6bde-102f-90ab-001a64ab842a</id>
+            <apellido>PORTILLO</apellido>
+            <nombre>ELBA SABINA</nombre>
+            <nro_documento>25689341</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1977-04-27</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-29 10:29:18</created_at>
+            <updated_at>2012-03-15 12:57:51</updated_at>
+            <created_by/>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>504d5366-c009-102f-bf64-001a64ab842a</id>
+                    <persona_id>f26ec564-6bde-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>504ce142-c009-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 13:03:49</created_at>
+                    <updated_at>2012-03-15 13:03:49</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>504ce142-c009-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id>5eeeb760-09a3-102f-8aa0-001a64ab842a</barrio_id>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra>21</chacra>
+                        <tira/>
+                        <sector/>
+                        <manzana>93</manzana>
+                        <parcela>1</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 13:03:49</created_at>
+                        <updated_at>2012-03-15 13:03:49</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>4b27ab58-bff9-102f-bf64-001a64ab842a</id>
+            <apellido>CASTILLO</apellido>
+            <nombre>MIGUEL</nombre>
+            <nro_documento>20968678</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>1969-07-01</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id/>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-03-15 11:09:09</created_at>
+            <updated_at>2012-03-15 11:09:09</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>56fb2ab4-c007-102f-bf64-001a64ab842a</id>
+                    <persona_id>4b27ab58-bff9-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>56fab44e-c007-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-01-15</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:49:41</created_at>
+                    <updated_at>2012-03-15 12:49:41</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>56fab44e-c007-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:49:41</created_at>
+                        <updated_at>2012-03-15 12:49:41</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>9ffbf262-c001-102f-bf64-001a64ab842a</id>
+            <apellido>GONZALEZ</apellido>
+            <nombre>JORGE ANIBAL</nombre>
+            <nro_documento>28498114</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>1980-11-13</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id/>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-03-15 12:08:47</created_at>
+            <updated_at>2012-03-15 12:08:47</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>586e8ffe-c00b-102f-bf64-001a64ab842a</id>
+                    <persona_id>9ffbf262-c001-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>586e1a2e-c00b-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-03-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 13:18:22</created_at>
+                    <updated_at>2012-03-15 13:18:22</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>586e1a2e-c00b-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1159</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero>4655</numero>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3503</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 13:18:22</created_at>
+                        <updated_at>2012-03-15 13:18:22</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1159</id>
+                            <nombre>BARRANQUERAS</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>0115397e-c001-102f-bf64-001a64ab842a</id>
+            <apellido>GOMEZ</apellido>
+            <nombre>PAULA</nombre>
+            <nro_documento>25464666</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1976-10-03</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-03-15 12:04:20</created_at>
+            <updated_at>2012-03-15 12:04:20</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>5d373e88-c005-102f-bf64-001a64ab842a</id>
+                    <persona_id>0115397e-c001-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>5d36c11a-c005-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:35:33</created_at>
+                    <updated_at>2012-03-15 12:35:33</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>5d36c11a-c005-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>58</manzana>
+                        <parcela>25</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:35:33</created_at>
+                        <updated_at>2012-03-15 12:35:33</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>f274edcc-6bde-102f-90ab-001a64ab842a</id>
+            <apellido>S&#xC1;NCHEZ</apellido>
+            <nombre>LORENA ELIZABETH</nombre>
+            <nro_documento>26140100</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1977-09-27</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-29 10:29:18</created_at>
+            <updated_at>2012-03-15 12:31:07</updated_at>
+            <created_by/>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>6f13323e-bfff-102f-bf64-001a64ab842a</id>
+                    <persona_id>f274edcc-6bde-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>6f12a15c-bfff-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 11:53:06</created_at>
+                    <updated_at>2012-03-15 11:53:06</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>6f12a15c-bfff-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id>2a3f1a5e-099f-102f-8aa0-001a64ab842a</calle_id>
+                        <numero>467</numero>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 11:53:06</created_at>
+                        <updated_at>2012-03-15 11:53:06</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>44b17de6-c001-102f-bf64-001a64ab842a</id>
+            <apellido>GONZALEZ</apellido>
+            <nombre>TOM&#xC1;S AGUST&#xCD;N</nombre>
+            <nro_documento>45371202</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2004-01-14</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1159</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-03-15 12:06:14</created_at>
+            <updated_at>2012-03-15 12:06:14</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>7016d1f0-c008-102f-bf64-001a64ab842a</id>
+                    <persona_id>44b17de6-c001-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>70165b8a-c008-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo/>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:57:33</created_at>
+                    <updated_at>2012-03-15 12:57:33</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>70165b8a-c008-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1159</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero>4655</numero>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:57:33</created_at>
+                        <updated_at>2012-03-15 12:57:33</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1159</id>
+                            <nombre>BARRANQUERAS</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>98f7ba4c-5840-102f-90ab-001a64ab842a</id>
+            <apellido>GOMEZ</apellido>
+            <nombre>AYRTON ANDRES</nombre>
+            <nro_documento>45099848</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2003-07-02</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-22 10:49:33</created_at>
+            <updated_at>2012-03-15 11:57:06</updated_at>
+            <created_by>1</created_by>
+            <updated_by>1</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>749dfbca-c000-102f-bf64-001a64ab842a</id>
+                    <persona_id>98f7ba4c-5840-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>749d8406-c000-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-03-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:00:25</created_at>
+                    <updated_at>2012-03-15 12:00:25</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>749d8406-c000-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>58</manzana>
+                        <parcela>25</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:00:25</created_at>
+                        <updated_at>2012-03-15 12:00:25</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>3cada4b4-bff5-102f-bf64-001a64ab842a</id>
+            <apellido>BENITEZ CHIARELLI</apellido>
+            <nombre>SANDRA</nombre>
+            <nro_documento>24896170</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1975-10-30</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id/>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-03-15 10:40:06</created_at>
+            <updated_at>2012-03-15 10:40:06</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>78b2e1fc-c006-102f-bf64-001a64ab842a</id>
+                    <persona_id>3cada4b4-bff5-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>78b26c22-c006-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-01-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:43:29</created_at>
+                    <updated_at>2012-03-15 12:43:29</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>78b26c22-c006-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1159</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>34</manzana>
+                        <parcela>5</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3503</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:43:29</created_at>
+                        <updated_at>2012-03-15 12:43:29</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1159</id>
+                            <nombre>BARRANQUERAS</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>990de5b0-5840-102f-90ab-001a64ab842a</id>
+            <apellido>BENITEZ CHIARELLI</apellido>
+            <nombre>JUAN PABLO</nombre>
+            <nro_documento>45371031</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2003-10-20</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-22 10:49:34</created_at>
+            <updated_at>2012-03-15 10:32:51</updated_at>
+            <created_by>1</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>87b50caa-bff4-102f-bf64-001a64ab842a</id>
+                    <persona_id>990de5b0-5840-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>87b1a7c2-bff4-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-03-01</fecha_alta>
+                    <activo/>
+                    <zona_rural/>
+                    <created_at>2012-03-15 10:35:03</created_at>
+                    <updated_at>2012-03-15 10:35:03</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>87b1a7c2-bff4-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1159</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>34</manzana>
+                        <parcela>5</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 10:35:03</created_at>
+                        <updated_at>2012-03-15 10:46:14</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1159</id>
+                            <nombre>BARRANQUERAS</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>990a871c-5840-102f-90ab-001a64ab842a</id>
+            <apellido>BERTOLI</apellido>
+            <nombre>EMMANUEL</nombre>
+            <nro_documento>45370865</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2004-02-19</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-22 10:49:33</created_at>
+            <updated_at>2012-03-15 10:41:11</updated_at>
+            <created_by>1</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>a918b4c2-bff5-102f-bf64-001a64ab842a</id>
+                    <persona_id>990a871c-5840-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>a9183f92-bff5-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-03-01</fecha_alta>
+                    <activo/>
+                    <zona_rural/>
+                    <created_at>2012-03-15 10:43:08</created_at>
+                    <updated_at>2012-03-15 10:43:08</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>a9183f92-bff5-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1194</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>3</manzana>
+                        <parcela>5</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 10:43:08</created_at>
+                        <updated_at>2012-03-15 10:45:19</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1194</id>
+                            <nombre>FONTANA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>98e0b914-5840-102f-90ab-001a64ab842a</id>
+            <apellido>EBEL</apellido>
+            <nombre>GONZALO NICOLAS</nombre>
+            <nro_documento>44944144</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2003-07-21</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-22 10:49:33</created_at>
+            <updated_at>2012-03-15 11:10:43</updated_at>
+            <created_by>1</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>aea5861e-bff9-102f-bf64-001a64ab842a</id>
+                    <persona_id>98e0b914-5840-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>aea50cf2-bff9-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-03-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 11:11:56</created_at>
+                    <updated_at>2012-03-15 11:11:56</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>aea50cf2-bff9-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>37</manzana>
+                        <parcela>13</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 11:11:56</created_at>
+                        <updated_at>2012-03-15 11:11:56</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>763df1b6-6807-102f-90ab-001a64ab842a</id>
+            <apellido>G&#xF3;mez</apellido>
+            <nombre>Carolina</nombre>
+            <nro_documento>31630287</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>1985-03-04</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>2</estado_civil_id>
+            <localidad_nacim_id/>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>0</pais_nacim_id>
+            <created_at>2011-11-24 13:09:08</created_at>
+            <updated_at>2011-11-24 13:09:08</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>b4f8f106-c00b-102f-bf64-001a64ab842a</id>
+                    <persona_id>763df1b6-6807-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>b4f8746a-c00b-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-01-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 13:20:57</created_at>
+                    <updated_at>2012-03-15 13:20:57</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>b4f8746a-c00b-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>91</manzana>
+                        <parcela>18</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 13:20:57</created_at>
+                        <updated_at>2012-03-15 13:20:57</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>209c3be6-bffa-102f-bf64-001a64ab842a</id>
+            <apellido>ROLON</apellido>
+            <nombre>CLAUDIA</nombre>
+            <nro_documento>27238544</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1979-11-05</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id/>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id/>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2012-03-15 11:15:07</created_at>
+            <updated_at>2012-03-15 11:15:07</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>b8e8d280-c007-102f-bf64-001a64ab842a</id>
+                    <persona_id>209c3be6-bffa-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>b8e85aee-c007-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-01-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:52:26</created_at>
+                    <updated_at>2012-03-15 12:52:26</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>b8e85aee-c007-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>37</manzana>
+                        <parcela>13</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:52:26</created_at>
+                        <updated_at>2012-03-15 12:52:26</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>adc73e38-97de-102f-baaa-001a64ab842a</id>
+            <apellido>Sosa</apellido>
+            <nombre>Leandro</nombre>
+            <nro_documento>42333666</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento/>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id/>
+            <habla_lengua_indigena/>
+            <lengua_familia>castellano</lengua_familia>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario>vacio</pueblo_originario>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-01-24 10:16:54</created_at>
+            <updated_at>2012-01-24 10:16:54</updated_at>
+            <created_by>1</created_by>
+            <updated_by>1</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>c309bcce-9961-102f-baaa-001a64ab842a</id>
+                    <persona_id>adc73e38-97de-102f-baaa-001a64ab842a</persona_id>
+                    <domicilio_id>c301514c-9961-102f-baaa-001a64ab842a</domicilio_id>
+                    <fecha_alta>2011-03-08</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-01-26 08:27:47</created_at>
+                    <updated_at>2012-01-26 08:27:47</updated_at>
+                    <created_by>1</created_by>
+                    <updated_by>1</updated_by>
+                    <Domicilio_Collection>
+                        <id>c301514c-9961-102f-baaa-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id>50ba8ea2-099f-102f-8aa0-001a64ab842a</calle_id>
+                        <numero>875</numero>
+                        <piso/>
+                        <departamento>b</departamento>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-01-26 08:27:47</created_at>
+                        <updated_at>2012-01-26 08:27:47</updated_at>
+                        <created_by>1</created_by>
+                        <updated_by>1</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>4eb6b8f4-c003-102f-bf64-001a64ab842a</id>
+            <apellido>ROMERO</apellido>
+            <nombre>MIRTA NOEM&#xCD;</nombre>
+            <nro_documento>21106392</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1969-07-28</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>2</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-03-15 12:20:50</created_at>
+            <updated_at>2012-03-15 12:20:50</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>c896d300-c00a-102f-bf64-001a64ab842a</id>
+                    <persona_id>4eb6b8f4-c003-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>c89650c4-c00a-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-01-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 13:14:21</created_at>
+                    <updated_at>2012-03-15 13:14:21</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>c89650c4-c00a-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>37</manzana>
+                        <parcela>7</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 13:14:21</created_at>
+                        <updated_at>2012-03-15 13:14:21</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>99120fdc-5840-102f-90ab-001a64ab842a</id>
+            <apellido>LOPEZ ROMERO</apellido>
+            <nombre>ALAYN IGNACIO R</nombre>
+            <nro_documento>45371193</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2004-02-13</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-22 10:49:34</created_at>
+            <updated_at>2012-03-15 12:16:01</updated_at>
+            <created_by>1</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>d39b82b2-c002-102f-bf64-001a64ab842a</id>
+                    <persona_id>99120fdc-5840-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>d39b0a12-c002-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-03-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:17:23</created_at>
+                    <updated_at>2012-03-15 12:17:23</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>d39b0a12-c002-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector>c7</sector>
+                        <manzana>37</manzana>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:17:23</created_at>
+                        <updated_at>2012-03-15 12:17:23</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>f26c7980-6bde-102f-90ab-001a64ab842a</id>
+            <apellido>PELOZO</apellido>
+            <nombre>MAR&#xCD;A AUXILIADORA</nombre>
+            <nro_documento>24523969</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1975-03-12</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1236</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2011-11-29 10:29:18</created_at>
+            <updated_at>2012-03-15 12:26:11</updated_at>
+            <created_by/>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>daa9664a-bffe-102f-bf64-001a64ab842a</id>
+                    <persona_id>f26c7980-6bde-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>daa8f3c2-bffe-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 11:48:57</created_at>
+                    <updated_at>2012-03-15 11:48:57</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>daa8f3c2-bffe-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1236</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id>a83ee73e-bffe-102f-bf64-001a64ab842a</calle_id>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 11:48:57</created_at>
+                        <updated_at>2012-03-15 11:48:57</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1236</id>
+                            <nombre>LA LEONESA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>176</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>9908055a-5840-102f-90ab-001a64ab842a</id>
+            <apellido>ESQUIVEL</apellido>
+            <nombre>EDUARDO SANTIAGO</nombre>
+            <nro_documento>45250685</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2003-12-25</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-22 10:49:33</created_at>
+            <updated_at>2012-03-15 11:19:42</updated_at>
+            <created_by>1</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>dc24e9c6-bfff-102f-bf64-001a64ab842a</id>
+                    <persona_id>9908055a-5840-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>dc246e10-bfff-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-10-01</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 11:56:09</created_at>
+                    <updated_at>2012-03-15 11:56:09</updated_at>
+                    <created_by>1</created_by>
+                    <updated_by>1</updated_by>
+                    <Domicilio_Collection>
+                        <id>dc246e10-bfff-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>94</manzana>
+                        <parcela>26</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 11:56:09</created_at>
+                        <updated_at>2012-03-15 11:56:09</updated_at>
+                        <created_by>1</created_by>
+                        <updated_by>1</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>98f60d78-5840-102f-90ab-001a64ab842a</id>
+            <apellido>CASTILLO</apellido>
+            <nombre>CRISTIAN MIGUEL</nombre>
+            <nro_documento>45099591</nro_documento>
+            <cuil/>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2003-10-15</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-22 10:49:33</created_at>
+            <updated_at>2012-03-15 10:48:50</updated_at>
+            <created_by>1</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>e4dc966c-bff6-102f-bf64-001a64ab842a</id>
+                    <persona_id>98f60d78-5840-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>e4dc1f8e-bff6-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-03-01</fecha_alta>
+                    <activo/>
+                    <zona_rural/>
+                    <created_at>2012-03-15 10:51:58</created_at>
+                    <updated_at>2012-03-15 10:51:58</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>e4dc1f8e-bff6-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>13</manzana>
+                        <parcela>5</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 10:51:58</created_at>
+                        <updated_at>2012-03-15 11:09:24</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>ef4f7124-bff5-102f-bf64-001a64ab842a</id>
+            <apellido>VARGAS</apellido>
+            <nombre>MARIAN</nombre>
+            <nro_documento>29925813</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1982-10-20</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id/>
+            <habla_lengua_indigena/>
+            <lengua_familia/>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2012-03-15 10:45:06</created_at>
+            <updated_at>2012-03-15 10:45:06</updated_at>
+            <created_by>20</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>eaed322c-c006-102f-bf64-001a64ab842a</id>
+                    <persona_id>ef4f7124-bff5-102f-bf64-001a64ab842a</persona_id>
+                    <domicilio_id>eaecbaf4-c006-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta>2010-03-15</fecha_alta>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 12:46:40</created_at>
+                    <updated_at>2012-03-15 12:46:40</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>eaecbaf4-c006-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1194</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>3</manzana>
+                        <parcela>15</parcela>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 12:46:40</created_at>
+                        <updated_at>2012-03-15 12:46:40</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1194</id>
+                            <nombre>FONTANA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>f2767804-6bde-102f-90ab-001a64ab842a</id>
+            <apellido>TACCHI</apellido>
+            <nombre>MARCELA BEATRIZ</nombre>
+            <nro_documento>21164873</nro_documento>
+            <cuil/>
+            <sexo>F</sexo>
+            <fecha_nacimiento>1969-11-02</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>2</estado_civil_id>
+            <localidad_nacim_id>3284</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia>castellano</lengua_familia>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id>1</pais_nacim_id>
+            <created_at>2011-11-29 10:29:18</created_at>
+            <updated_at>2012-03-15 12:31:33</updated_at>
+            <created_by/>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>fa11100a-bffe-102f-bf64-001a64ab842a</id>
+                    <persona_id>f2767804-6bde-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>fa109814-bffe-102f-bf64-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2012-03-15 11:49:50</created_at>
+                    <updated_at>2012-03-15 11:49:50</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>fa109814-bffe-102f-bf64-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id>50b65be8-099f-102f-8aa0-001a64ab842a</calle_id>
+                        <numero>84</numero>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana/>
+                        <parcela/>
+                        <monoblock/>
+                        <referencia/>
+                        <codigo_postal/>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2012-03-15 11:49:50</created_at>
+                        <updated_at>2012-03-15 11:49:50</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+        <Persona>
+            <id>98dfdfe4-5840-102f-90ab-001a64ab842a</id>
+            <apellido>BELLO</apellido>
+            <nombre>PABLO JOAQUIN</nombre>
+            <nro_documento>44944143</nro_documento>
+            <cuil>20-44944143-6</cuil>
+            <sexo>M</sexo>
+            <fecha_nacimiento>2003-07-24</fecha_nacimiento>
+            <email/>
+            <nacionalidad_id>1</nacionalidad_id>
+            <tipo_documento_id>1</tipo_documento_id>
+            <estado_civil_id>1</estado_civil_id>
+            <localidad_nacim_id>1279</localidad_nacim_id>
+            <habla_lengua_indigena/>
+            <lengua_familia>castellano</lengua_familia>
+            <pertenece_pueblo_originario/>
+            <pueblo_originario/>
+            <pais_nacim_id/>
+            <created_at>2011-11-22 10:49:33</created_at>
+            <updated_at>2012-03-15 10:31:50</updated_at>
+            <created_by>1</created_by>
+            <updated_by>20</updated_by>
+            <PersonaDomicilio_Collection>
+                <PersonaDomicilio>
+                    <id>fdd959ea-6806-102f-90ab-001a64ab842a</id>
+                    <persona_id>98dfdfe4-5840-102f-90ab-001a64ab842a</persona_id>
+                    <domicilio_id>fdd8da60-6806-102f-90ab-001a64ab842a</domicilio_id>
+                    <fecha_alta/>
+                    <activo>1</activo>
+                    <zona_rural/>
+                    <created_at>2011-11-24 13:05:46</created_at>
+                    <updated_at>2011-11-24 13:05:46</updated_at>
+                    <created_by>20</created_by>
+                    <updated_by>20</updated_by>
+                    <Domicilio_Collection>
+                        <id>fdd8da60-6806-102f-90ab-001a64ab842a</id>
+                        <localidad_id>1279</localidad_id>
+                        <paraje_id/>
+                        <barrio_id/>
+                        <calle_id/>
+                        <numero/>
+                        <piso/>
+                        <departamento/>
+                        <chacra/>
+                        <tira/>
+                        <sector/>
+                        <manzana>91</manzana>
+                        <parcela>18</parcela>
+                        <monoblock/>
+                        <referencia>b&#xBA; 160 viviendas</referencia>
+                        <codigo_postal>3500</codigo_postal>
+                        <ambito_id>2</ambito_id>
+                        <created_at>2011-11-24 13:05:46</created_at>
+                        <updated_at>2011-11-24 13:05:46</updated_at>
+                        <created_by>20</created_by>
+                        <updated_by>20</updated_by>
+                        <Localidad_Collection>
+                            <id>1279</id>
+                            <nombre>RESISTENCIA</nombre>
+                            <codigo_postal/>
+                            <departamento_id>162</departamento_id>
+                            <udt_id/>
+                            <created_at>2011-04-01 12:56:28</created_at>
+                            <updated_at>2011-04-01 12:56:28</updated_at>
+                        </Localidad_Collection>
+                    </Domicilio_Collection>
+                </PersonaDomicilio>
+            </PersonaDomicilio_Collection>
+        </Persona>
+    </Persona_Collection>
+</result>
