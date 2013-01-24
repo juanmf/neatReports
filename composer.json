@@ -1,5 +1,5 @@
 {
-    "name": "juanmf/neatReports",
+    "name": "juanmf/neat-reports",
     "type": "library",
     "description": "Reporting Engine, design with MS Word, render as PDF|HTML|etc",
     "keywords": ["reporting", "reports", "php", "engine"],
