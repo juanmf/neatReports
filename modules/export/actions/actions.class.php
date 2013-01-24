@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the reportPlugin package.
+ * This file is part of the NeatReports package.
  * (c) 2011-2012 Juan Manuel Fernandez <juanmf@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
