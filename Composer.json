@@ -1,0 +1,26 @@
+{
+    "name": "juanmf/neatReports",
+    "type": "library",
+    "description": "Reporting Engine, design with MS Word, render as PDF|HTML|etc",
+    "keywords": ["reporting", "reports", "php", "engine"],
+    "homepage": "https://github.com/juanmf/neatReports",
+    "authors": [
+        {
+            "name": "Juan Manuel Fernandez",
+            "email": "juanmf@gmail.com",
+            "homepage": "http://ar.linkedin.com/in/juanmf/"
+
+        }
+    ],
+    "license": "GPL-3.0+",
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/config": "2.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Juanmf\\NeatReports\\": ""
+        }
+    },
+    "target-dir": "Juanmf/NeatReports"
+}
